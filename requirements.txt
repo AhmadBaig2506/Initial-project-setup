@@ -1,0 +1,6 @@
+ddgs
+trafilatura
+rank-bm25
+streamlit
+requests
+pytest
