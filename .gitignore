@@ -5,3 +5,4 @@ __pycache__/
 .env
 .vscode/
 search_results.json
+search_results*.json
