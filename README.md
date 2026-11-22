@@ -32,11 +32,11 @@ python test_setup.py
 ## Current Progress
 
 - [x] Development environment configured
-- [ ] Search pipeline implemented
-- [ ] Text extraction implemented
-- [ ] BM25 ranking implemented
-- [ ] Local SLM integrated
-- [ ] Streamlit interface implemented
+- [x] Search pipeline implemented
+- [x] Text extraction implemented
+- [x] BM25 ranking implemented
+- [x] Local SLM integrated
+- [x] Streamlit interface implemented
 
 ## Target
 
