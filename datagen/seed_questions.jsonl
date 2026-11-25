@@ -1,0 +1,480 @@
+{"id": "s0001", "domain": "health & medicine", "question": "How does aspirin reduce pain and inflammation?"}
+{"id": "s0002", "domain": "health & medicine", "question": "What is the difference between a cold and the flu?"}
+{"id": "s0003", "domain": "health & medicine", "question": "Why do antibiotics stop working against resistant bacteria?"}
+{"id": "s0004", "domain": "health & medicine", "question": "What causes migraines and how are they treated?"}
+{"id": "s0005", "domain": "health & medicine", "question": "How does an MRI scanner create images of the body?"}
+{"id": "s0006", "domain": "health & medicine", "question": "What is a normal resting heart rate for adults?"}
+{"id": "s0007", "domain": "health & medicine", "question": "How does high blood pressure damage the arteries?"}
+{"id": "s0008", "domain": "health & medicine", "question": "What is asthma and what triggers an attack?"}
+{"id": "s0009", "domain": "health & medicine", "question": "Who discovered penicillin and in what year?"}
+{"id": "s0010", "domain": "health & medicine", "question": "Why does a fever help the body fight infection?"}
+{"id": "s0011", "domain": "health & medicine", "question": "How do statins lower cholesterol levels?"}
+{"id": "s0012", "domain": "health & medicine", "question": "What is the difference between a heart attack and cardiac arrest?"}
+{"id": "s0013", "domain": "health & medicine", "question": "How does general anesthesia make patients unconscious?"}
+{"id": "s0014", "domain": "health & medicine", "question": "What causes kidney stones to form?"}
+{"id": "s0015", "domain": "health & medicine", "question": "How is malaria transmitted to humans?"}
+{"id": "s0016", "domain": "health & medicine", "question": "What does a CT scan show that an X-ray cannot?"}
+{"id": "s0017", "domain": "health & medicine", "question": "Why do allergies cause sneezing and itchy eyes?"}
+{"id": "s0018", "domain": "health & medicine", "question": "What is sepsis and why is it so dangerous?"}
+{"id": "s0019", "domain": "health & medicine", "question": "How does chemotherapy kill cancer cells?"}
+{"id": "s0020", "domain": "health & medicine", "question": "What causes tinnitus or ringing in the ears?"}
+{"id": "s0021", "domain": "human biology", "question": "How do red blood cells carry oxygen around the body?"}
+{"id": "s0022", "domain": "human biology", "question": "Why do humans have an appendix?"}
+{"id": "s0023", "domain": "human biology", "question": "How many bones are in the adult human body?"}
+{"id": "s0024", "domain": "human biology", "question": "How do the kidneys filter blood?"}
+{"id": "s0025", "domain": "human biology", "question": "What is the role of the hippocampus in memory?"}
+{"id": "s0026", "domain": "human biology", "question": "How does the eye focus on near and far objects?"}
+{"id": "s0027", "domain": "human biology", "question": "How do muscles contract at the cellular level?"}
+{"id": "s0028", "domain": "human biology", "question": "What is the difference between DNA and RNA?"}
+{"id": "s0029", "domain": "human biology", "question": "How does the inner ear help us keep our balance?"}
+{"id": "s0030", "domain": "human biology", "question": "Why do we get goosebumps?"}
+{"id": "s0031", "domain": "human biology", "question": "What does the pancreas do in digestion?"}
+{"id": "s0032", "domain": "human biology", "question": "How do nerve signals travel along neurons?"}
+{"id": "s0033", "domain": "human biology", "question": "What is the largest organ in the human body?"}
+{"id": "s0034", "domain": "human biology", "question": "How does the body regulate its temperature?"}
+{"id": "s0035", "domain": "human biology", "question": "Why do fingers wrinkle after soaking in water?"}
+{"id": "s0036", "domain": "human biology", "question": "How does blood clotting work?"}
+{"id": "s0037", "domain": "human biology", "question": "What are white blood cells and what do they do?"}
+{"id": "s0038", "domain": "human biology", "question": "How do taste buds detect different flavours?"}
+{"id": "s0039", "domain": "human biology", "question": "What happens in the brain during REM sleep?"}
+{"id": "s0040", "domain": "human biology", "question": "How do the lungs exchange oxygen and carbon dioxide?"}
+{"id": "s0041", "domain": "nutrition & food science", "question": "What is the difference between soluble and insoluble fibre?"}
+{"id": "s0042", "domain": "nutrition & food science", "question": "Why does bread dough rise when yeast is added?"}
+{"id": "s0043", "domain": "nutrition & food science", "question": "How does the Maillard reaction brown food?"}
+{"id": "s0044", "domain": "nutrition & food science", "question": "What are omega-3 fatty acids and where are they found?"}
+{"id": "s0045", "domain": "nutrition & food science", "question": "Why does vitamin C prevent scurvy?"}
+{"id": "s0046", "domain": "nutrition & food science", "question": "How does pasteurization make milk safe to drink?"}
+{"id": "s0047", "domain": "nutrition & food science", "question": "What is the difference between saturated and unsaturated fats?"}
+{"id": "s0048", "domain": "nutrition & food science", "question": "How many calories are in one gram of fat?"}
+{"id": "s0049", "domain": "nutrition & food science", "question": "Why do apples turn brown after being cut?"}
+{"id": "s0050", "domain": "nutrition & food science", "question": "What causes lactose intolerance in adults?"}
+{"id": "s0051", "domain": "nutrition & food science", "question": "How does fermentation turn cabbage into sauerkraut?"}
+{"id": "s0052", "domain": "nutrition & food science", "question": "What is gluten and which grains contain it?"}
+{"id": "s0053", "domain": "nutrition & food science", "question": "Why does salt preserve meat?"}
+{"id": "s0054", "domain": "nutrition & food science", "question": "What is the glycemic index of a food?"}
+{"id": "s0055", "domain": "nutrition & food science", "question": "How does the body absorb iron from food?"}
+{"id": "s0056", "domain": "nutrition & food science", "question": "Why do chili peppers taste hot?"}
+{"id": "s0057", "domain": "nutrition & food science", "question": "What are probiotics and how do they affect the gut?"}
+{"id": "s0058", "domain": "nutrition & food science", "question": "How does freeze-drying preserve food?"}
+{"id": "s0059", "domain": "nutrition & food science", "question": "What is the difference between baking soda and baking powder?"}
+{"id": "s0060", "domain": "nutrition & food science", "question": "Why does popcorn pop when heated?"}
+{"id": "s0061", "domain": "animals & ecology", "question": "How do birds navigate during long migrations?"}
+{"id": "s0062", "domain": "animals & ecology", "question": "Why do whales sometimes strand themselves on beaches?"}
+{"id": "s0063", "domain": "animals & ecology", "question": "What is a keystone species?"}
+{"id": "s0064", "domain": "animals & ecology", "question": "How do bats use echolocation to find prey?"}
+{"id": "s0065", "domain": "animals & ecology", "question": "Why do chameleons change colour?"}
+{"id": "s0066", "domain": "animals & ecology", "question": "How long do elephants live in the wild?"}
+{"id": "s0067", "domain": "animals & ecology", "question": "What is the difference between a frog and a toad?"}
+{"id": "s0068", "domain": "animals & ecology", "question": "How do salmon find their way back to their birth river?"}
+{"id": "s0069", "domain": "animals & ecology", "question": "What causes animals to hibernate in winter?"}
+{"id": "s0070", "domain": "animals & ecology", "question": "How does a food web differ from a food chain?"}
+{"id": "s0071", "domain": "animals & ecology", "question": "Why are amphibians so sensitive to pollution?"}
+{"id": "s0072", "domain": "animals & ecology", "question": "How do octopuses camouflage themselves?"}
+{"id": "s0073", "domain": "animals & ecology", "question": "What is the fastest land animal and how fast does it run?"}
+{"id": "s0074", "domain": "animals & ecology", "question": "How do ants communicate with each other?"}
+{"id": "s0075", "domain": "animals & ecology", "question": "What is an invasive species and how does it harm ecosystems?"}
+{"id": "s0076", "domain": "animals & ecology", "question": "Why do cats purr and how do they do it?"}
+{"id": "s0077", "domain": "animals & ecology", "question": "How do sharks detect electrical fields in the water?"}
+{"id": "s0078", "domain": "animals & ecology", "question": "What caused the extinction of the dodo?"}
+{"id": "s0079", "domain": "animals & ecology", "question": "How do penguins stay warm in Antarctica?"}
+{"id": "s0080", "domain": "animals & ecology", "question": "What is symbiosis and what are its main types?"}
+{"id": "s0081", "domain": "plants & agriculture", "question": "How do plants absorb water through their roots?"}
+{"id": "s0082", "domain": "plants & agriculture", "question": "Why do leaves change colour in autumn?"}
+{"id": "s0083", "domain": "plants & agriculture", "question": "What is crop rotation and why do farmers use it?"}
+{"id": "s0084", "domain": "plants & agriculture", "question": "How do legumes fix nitrogen in the soil?"}
+{"id": "s0085", "domain": "plants & agriculture", "question": "What is the difference between annual and perennial plants?"}
+{"id": "s0086", "domain": "plants & agriculture", "question": "How does hydroponic farming work without soil?"}
+{"id": "s0087", "domain": "plants & agriculture", "question": "Why do young sunflowers turn to follow the sun?"}
+{"id": "s0088", "domain": "plants & agriculture", "question": "What are GMO crops and how are they made?"}
+{"id": "s0089", "domain": "plants & agriculture", "question": "How do seeds know when to germinate?"}
+{"id": "s0090", "domain": "plants & agriculture", "question": "What is the tallest tree species in the world?"}
+{"id": "s0091", "domain": "plants & agriculture", "question": "How does drip irrigation save water?"}
+{"id": "s0092", "domain": "plants & agriculture", "question": "Why do some plants eat insects?"}
+{"id": "s0093", "domain": "plants & agriculture", "question": "What caused the Irish potato blight?"}
+{"id": "s0094", "domain": "plants & agriculture", "question": "How are fruit trees grafted onto rootstock?"}
+{"id": "s0095", "domain": "plants & agriculture", "question": "What is the botanical difference between fruits and vegetables?"}
+{"id": "s0096", "domain": "plants & agriculture", "question": "How do cacti survive in hot deserts?"}
+{"id": "s0097", "domain": "plants & agriculture", "question": "Where was rice first domesticated?"}
+{"id": "s0098", "domain": "plants & agriculture", "question": "How does composting create fertile soil?"}
+{"id": "s0099", "domain": "plants & agriculture", "question": "What is soil erosion and how can farmers prevent it?"}
+{"id": "s0100", "domain": "plants & agriculture", "question": "How do plants defend themselves against herbivores?"}
+{"id": "s0101", "domain": "earth science & geology", "question": "How are sedimentary rocks formed?"}
+{"id": "s0102", "domain": "earth science & geology", "question": "What is the difference between magma and lava?"}
+{"id": "s0103", "domain": "earth science & geology", "question": "How do geologists determine the age of rocks?"}
+{"id": "s0104", "domain": "earth science & geology", "question": "What causes volcanoes to erupt?"}
+{"id": "s0105", "domain": "earth science & geology", "question": "How are diamonds formed deep underground?"}
+{"id": "s0106", "domain": "earth science & geology", "question": "How did the Himalayas form?"}
+{"id": "s0107", "domain": "earth science & geology", "question": "How do stalactites and stalagmites form in caves?"}
+{"id": "s0108", "domain": "earth science & geology", "question": "What is the Earth's core made of?"}
+{"id": "s0109", "domain": "earth science & geology", "question": "How do geysers like Old Faithful work?"}
+{"id": "s0110", "domain": "earth science & geology", "question": "What is the Mohs hardness scale?"}
+{"id": "s0111", "domain": "earth science & geology", "question": "How are fossils formed over millions of years?"}
+{"id": "s0112", "domain": "earth science & geology", "question": "Why does Earth have a magnetic field?"}
+{"id": "s0113", "domain": "earth science & geology", "question": "What is the difference between weathering and erosion?"}
+{"id": "s0114", "domain": "earth science & geology", "question": "How old is the Earth?"}
+{"id": "s0115", "domain": "earth science & geology", "question": "How do glaciers carve U-shaped valleys?"}
+{"id": "s0116", "domain": "earth science & geology", "question": "What is a supervolcano and how does it erupt?"}
+{"id": "s0117", "domain": "earth science & geology", "question": "How is crude oil formed underground?"}
+{"id": "s0118", "domain": "earth science & geology", "question": "What causes sinkholes to suddenly appear?"}
+{"id": "s0119", "domain": "earth science & geology", "question": "What is the rock cycle?"}
+{"id": "s0120", "domain": "earth science & geology", "question": "How did the Grand Canyon form?"}
+{"id": "s0121", "domain": "weather & oceans", "question": "How do hurricanes form over warm oceans?"}
+{"id": "s0122", "domain": "weather & oceans", "question": "What causes lightning during thunderstorms?"}
+{"id": "s0123", "domain": "weather & oceans", "question": "Where does the salt in seawater come from?"}
+{"id": "s0124", "domain": "weather & oceans", "question": "How do tornadoes form during thunderstorms?"}
+{"id": "s0125", "domain": "weather & oceans", "question": "How does El Ni\u00f1o affect global weather?"}
+{"id": "s0126", "domain": "weather & oceans", "question": "What causes fog to form?"}
+{"id": "s0127", "domain": "weather & oceans", "question": "How does the Gulf Stream affect Europe's climate?"}
+{"id": "s0128", "domain": "weather & oceans", "question": "Why do snowflakes have six sides?"}
+{"id": "s0129", "domain": "weather & oceans", "question": "What is the jet stream?"}
+{"id": "s0130", "domain": "weather & oceans", "question": "How deep is the Mariana Trench?"}
+{"id": "s0131", "domain": "weather & oceans", "question": "What is a rogue wave and how does it form?"}
+{"id": "s0132", "domain": "weather & oceans", "question": "How do meteorologists predict rain?"}
+{"id": "s0133", "domain": "weather & oceans", "question": "What is relative humidity and how is it measured?"}
+{"id": "s0134", "domain": "weather & oceans", "question": "How does hail form inside clouds?"}
+{"id": "s0135", "domain": "weather & oceans", "question": "What causes monsoon seasons in South Asia?"}
+{"id": "s0136", "domain": "weather & oceans", "question": "Why do rainbows appear after rain?"}
+{"id": "s0137", "domain": "weather & oceans", "question": "What is ocean acidification and what causes it?"}
+{"id": "s0138", "domain": "weather & oceans", "question": "How do clouds form in the atmosphere?"}
+{"id": "s0139", "domain": "weather & oceans", "question": "What is wind chill and how is it calculated?"}
+{"id": "s0140", "domain": "weather & oceans", "question": "Why do dead zones form in coastal waters?"}
+{"id": "s0141", "domain": "astronomy & space", "question": "How do stars form from clouds of gas?"}
+{"id": "s0142", "domain": "astronomy & space", "question": "What is a black hole?"}
+{"id": "s0143", "domain": "astronomy & space", "question": "Why does the Moon have phases?"}
+{"id": "s0144", "domain": "astronomy & space", "question": "How far is the Sun from Earth?"}
+{"id": "s0145", "domain": "astronomy & space", "question": "What is the difference between a meteor and a meteorite?"}
+{"id": "s0146", "domain": "astronomy & space", "question": "Why does Mars look red?"}
+{"id": "s0147", "domain": "astronomy & space", "question": "Why do astronauts float inside the International Space Station?"}
+{"id": "s0148", "domain": "astronomy & space", "question": "What causes the northern lights?"}
+{"id": "s0149", "domain": "astronomy & space", "question": "How many planets are in the solar system and what are they?"}
+{"id": "s0150", "domain": "astronomy & space", "question": "How long is a light-year in kilometres?"}
+{"id": "s0151", "domain": "astronomy & space", "question": "How did the Moon form?"}
+{"id": "s0152", "domain": "astronomy & space", "question": "What is a supernova and what causes one?"}
+{"id": "s0153", "domain": "astronomy & space", "question": "Why does Saturn have rings?"}
+{"id": "s0154", "domain": "astronomy & space", "question": "When did Apollo 11 land on the Moon?"}
+{"id": "s0155", "domain": "astronomy & space", "question": "How do telescopes detect exoplanets?"}
+{"id": "s0156", "domain": "astronomy & space", "question": "What is the Big Bang theory?"}
+{"id": "s0157", "domain": "astronomy & space", "question": "What is dark matter and how do we detect it?"}
+{"id": "s0158", "domain": "astronomy & space", "question": "How hot is the surface of the Sun?"}
+{"id": "s0159", "domain": "astronomy & space", "question": "What causes a solar eclipse?"}
+{"id": "s0160", "domain": "astronomy & space", "question": "Why is Pluto no longer considered a planet?"}
+{"id": "s0161", "domain": "physics", "question": "What is Newton's third law of motion?"}
+{"id": "s0162", "domain": "physics", "question": "How does a magnet attract iron?"}
+{"id": "s0163", "domain": "physics", "question": "What is the speed of light in a vacuum?"}
+{"id": "s0164", "domain": "physics", "question": "Why do some objects float while others sink?"}
+{"id": "s0165", "domain": "physics", "question": "What is the difference between mass and weight?"}
+{"id": "s0166", "domain": "physics", "question": "How does electric current flow through a wire?"}
+{"id": "s0167", "domain": "physics", "question": "What is quantum entanglement in simple terms?"}
+{"id": "s0168", "domain": "physics", "question": "How does a convex lens bend light?"}
+{"id": "s0169", "domain": "physics", "question": "What is Einstein's theory of special relativity?"}
+{"id": "s0170", "domain": "physics", "question": "Why does sound travel faster in water than air?"}
+{"id": "s0171", "domain": "physics", "question": "What is the Doppler effect?"}
+{"id": "s0172", "domain": "physics", "question": "How does friction produce heat?"}
+{"id": "s0173", "domain": "physics", "question": "What is absolute zero in degrees Celsius?"}
+{"id": "s0174", "domain": "physics", "question": "What is half-life in radioactive decay?"}
+{"id": "s0175", "domain": "physics", "question": "How do airplane wings generate lift?"}
+{"id": "s0176", "domain": "physics", "question": "What is the difference between AC and DC current?"}
+{"id": "s0177", "domain": "physics", "question": "What is entropy in thermodynamics?"}
+{"id": "s0178", "domain": "physics", "question": "How do lasers produce a focused beam of light?"}
+{"id": "s0179", "domain": "physics", "question": "How does gravity work according to general relativity?"}
+{"id": "s0180", "domain": "physics", "question": "Why does a spinning top stay upright?"}
+{"id": "s0181", "domain": "chemistry", "question": "What is the pH scale?"}
+{"id": "s0182", "domain": "chemistry", "question": "How do catalysts speed up chemical reactions?"}
+{"id": "s0183", "domain": "chemistry", "question": "What is the difference between an atom and a molecule?"}
+{"id": "s0184", "domain": "chemistry", "question": "Why does iron rust when exposed to water?"}
+{"id": "s0185", "domain": "chemistry", "question": "What are noble gases and why are they unreactive?"}
+{"id": "s0186", "domain": "chemistry", "question": "How does soap remove grease?"}
+{"id": "s0187", "domain": "chemistry", "question": "Who created the periodic table?"}
+{"id": "s0188", "domain": "chemistry", "question": "What is an isotope of a chemical element?"}
+{"id": "s0189", "domain": "chemistry", "question": "Why does ice float on water?"}
+{"id": "s0190", "domain": "chemistry", "question": "How do batteries produce electricity?"}
+{"id": "s0191", "domain": "chemistry", "question": "What is the difference between ionic and covalent bonds?"}
+{"id": "s0192", "domain": "chemistry", "question": "How does bleach remove stains?"}
+{"id": "s0193", "domain": "chemistry", "question": "What is Avogadro's number used for in chemistry?"}
+{"id": "s0194", "domain": "chemistry", "question": "Why do fireworks burn in different colours?"}
+{"id": "s0195", "domain": "chemistry", "question": "How are plastics made from oil?"}
+{"id": "s0196", "domain": "chemistry", "question": "What is the difference between an acid and a base?"}
+{"id": "s0197", "domain": "chemistry", "question": "How does road salt melt ice?"}
+{"id": "s0198", "domain": "chemistry", "question": "What makes a chemical reaction exothermic?"}
+{"id": "s0199", "domain": "chemistry", "question": "What is a polymer and what are some examples?"}
+{"id": "s0200", "domain": "chemistry", "question": "Why is water called the universal solvent?"}
+{"id": "s0201", "domain": "everyday technology", "question": "How does a microwave oven heat food?"}
+{"id": "s0202", "domain": "everyday technology", "question": "How do touchscreens detect fingers?"}
+{"id": "s0203", "domain": "everyday technology", "question": "How does GPS determine your location?"}
+{"id": "s0204", "domain": "everyday technology", "question": "How does a QR code store information?"}
+{"id": "s0205", "domain": "everyday technology", "question": "How do LED bulbs produce light?"}
+{"id": "s0206", "domain": "everyday technology", "question": "What is the difference between LCD and OLED screens?"}
+{"id": "s0207", "domain": "everyday technology", "question": "How does wireless phone charging work?"}
+{"id": "s0208", "domain": "everyday technology", "question": "How do smoke detectors sense smoke?"}
+{"id": "s0209", "domain": "everyday technology", "question": "How does Bluetooth connect devices?"}
+{"id": "s0210", "domain": "everyday technology", "question": "How do digital cameras capture images?"}
+{"id": "s0211", "domain": "everyday technology", "question": "How does an induction cooktop heat a pan?"}
+{"id": "s0212", "domain": "everyday technology", "question": "What is the difference between 4G and 5G networks?"}
+{"id": "s0213", "domain": "everyday technology", "question": "How does a thermostat control room temperature?"}
+{"id": "s0214", "domain": "everyday technology", "question": "How do barcode scanners read barcodes?"}
+{"id": "s0215", "domain": "everyday technology", "question": "How does a dishwasher clean dishes?"}
+{"id": "s0216", "domain": "everyday technology", "question": "How do fingerprint scanners on phones work?"}
+{"id": "s0217", "domain": "everyday technology", "question": "How does a 3D printer build objects?"}
+{"id": "s0218", "domain": "everyday technology", "question": "What is RFID and where is it used?"}
+{"id": "s0219", "domain": "everyday technology", "question": "How does a quartz watch keep time?"}
+{"id": "s0220", "domain": "everyday technology", "question": "How do smart speakers recognise voice commands?"}
+{"id": "s0221", "domain": "computing & software", "question": "What is the difference between RAM and storage?"}
+{"id": "s0222", "domain": "computing & software", "question": "How does a CPU execute instructions?"}
+{"id": "s0223", "domain": "computing & software", "question": "What does an operating system do?"}
+{"id": "s0224", "domain": "computing & software", "question": "How does binary represent numbers?"}
+{"id": "s0225", "domain": "computing & software", "question": "What is open-source software and how is it licensed?"}
+{"id": "s0226", "domain": "computing & software", "question": "How does a compiler differ from an interpreter?"}
+{"id": "s0227", "domain": "computing & software", "question": "What is cloud computing and how does it work?"}
+{"id": "s0228", "domain": "computing & software", "question": "How do neural networks learn from data?"}
+{"id": "s0229", "domain": "computing & software", "question": "What is a database index and why does it speed up queries?"}
+{"id": "s0230", "domain": "computing & software", "question": "Who was Alan Turing and what did he contribute to computing?"}
+{"id": "s0231", "domain": "computing & software", "question": "What is version control and how does Git work?"}
+{"id": "s0232", "domain": "computing & software", "question": "How does a GPU differ from a CPU?"}
+{"id": "s0233", "domain": "computing & software", "question": "What is an API in software development?"}
+{"id": "s0234", "domain": "computing & software", "question": "How does garbage collection work in programming languages?"}
+{"id": "s0235", "domain": "computing & software", "question": "What is recursion in programming?"}
+{"id": "s0236", "domain": "computing & software", "question": "How does an SSD store data?"}
+{"id": "s0237", "domain": "computing & software", "question": "What is Moore's law in computing?"}
+{"id": "s0238", "domain": "computing & software", "question": "What is the difference between machine learning and artificial intelligence?"}
+{"id": "s0239", "domain": "computing & software", "question": "How do large language models generate text?"}
+{"id": "s0240", "domain": "computing & software", "question": "What is virtualization in computing?"}
+{"id": "s0241", "domain": "internet & security", "question": "How does HTTPS keep websites secure?"}
+{"id": "s0242", "domain": "internet & security", "question": "What is phishing and how can it be recognised?"}
+{"id": "s0243", "domain": "internet & security", "question": "How does DNS translate domain names into IP addresses?"}
+{"id": "s0244", "domain": "internet & security", "question": "What is two-factor authentication and why is it safer?"}
+{"id": "s0245", "domain": "internet & security", "question": "How does public key encryption work?"}
+{"id": "s0246", "domain": "internet & security", "question": "What is a DDoS attack?"}
+{"id": "s0247", "domain": "internet & security", "question": "How do password managers keep passwords safe?"}
+{"id": "s0248", "domain": "internet & security", "question": "What is the difference between a computer virus and a worm?"}
+{"id": "s0249", "domain": "internet & security", "question": "How does a firewall protect a network?"}
+{"id": "s0250", "domain": "internet & security", "question": "What is ransomware and how does it spread?"}
+{"id": "s0251", "domain": "internet & security", "question": "How do cookies track users across websites?"}
+{"id": "s0252", "domain": "internet & security", "question": "What is the difference between IPv4 and IPv6?"}
+{"id": "s0253", "domain": "internet & security", "question": "How does email travel from sender to recipient?"}
+{"id": "s0254", "domain": "internet & security", "question": "Who invented the World Wide Web?"}
+{"id": "s0255", "domain": "internet & security", "question": "What is a zero-day vulnerability?"}
+{"id": "s0256", "domain": "internet & security", "question": "How does Wi-Fi transmit data?"}
+{"id": "s0257", "domain": "internet & security", "question": "What is the dark web?"}
+{"id": "s0258", "domain": "internet & security", "question": "Why are passwords stored as hashes?"}
+{"id": "s0259", "domain": "internet & security", "question": "What is a botnet and how is it controlled?"}
+{"id": "s0260", "domain": "internet & security", "question": "How do content delivery networks speed up websites?"}
+{"id": "s0261", "domain": "energy & environment", "question": "How do wind turbines generate electricity?"}
+{"id": "s0262", "domain": "energy & environment", "question": "How does a nuclear power plant produce electricity?"}
+{"id": "s0263", "domain": "energy & environment", "question": "What is carbon capture and storage?"}
+{"id": "s0264", "domain": "energy & environment", "question": "How does hydroelectric power work?"}
+{"id": "s0265", "domain": "energy & environment", "question": "What is geothermal energy and where is it used?"}
+{"id": "s0266", "domain": "energy & environment", "question": "Why is plastic pollution harmful to marine life?"}
+{"id": "s0267", "domain": "energy & environment", "question": "What causes acid rain and what damage does it do?"}
+{"id": "s0268", "domain": "energy & environment", "question": "What is the ozone layer and what damaged it?"}
+{"id": "s0269", "domain": "energy & environment", "question": "How do hydrogen fuel cells produce electricity?"}
+{"id": "s0270", "domain": "energy & environment", "question": "What is the difference between renewable and non-renewable energy?"}
+{"id": "s0271", "domain": "energy & environment", "question": "How does deforestation affect biodiversity?"}
+{"id": "s0272", "domain": "energy & environment", "question": "Why does recycling aluminium save so much energy?"}
+{"id": "s0273", "domain": "energy & environment", "question": "What is a carbon footprint?"}
+{"id": "s0274", "domain": "energy & environment", "question": "How is natural gas extracted by fracking?"}
+{"id": "s0275", "domain": "energy & environment", "question": "What is the Paris Agreement on climate change?"}
+{"id": "s0276", "domain": "energy & environment", "question": "How does a power grid balance supply and demand?"}
+{"id": "s0277", "domain": "energy & environment", "question": "What are microplastics and where do they come from?"}
+{"id": "s0278", "domain": "energy & environment", "question": "What is biomass energy and how is it produced?"}
+{"id": "s0279", "domain": "energy & environment", "question": "How do smart meters measure electricity use?"}
+{"id": "s0280", "domain": "energy & environment", "question": "What causes smog in cities?"}
+{"id": "s0281", "domain": "transport & vehicles", "question": "How does a four-stroke car engine work?"}
+{"id": "s0282", "domain": "transport & vehicles", "question": "What is the difference between electric and hybrid cars?"}
+{"id": "s0283", "domain": "transport & vehicles", "question": "How do jet engines produce thrust?"}
+{"id": "s0284", "domain": "transport & vehicles", "question": "How do submarines dive and surface?"}
+{"id": "s0285", "domain": "transport & vehicles", "question": "How do maglev trains levitate?"}
+{"id": "s0286", "domain": "transport & vehicles", "question": "What does a car's transmission do?"}
+{"id": "s0287", "domain": "transport & vehicles", "question": "How do anti-lock brakes work?"}
+{"id": "s0288", "domain": "transport & vehicles", "question": "When did the Wright brothers make the first powered flight?"}
+{"id": "s0289", "domain": "transport & vehicles", "question": "How do helicopter rotors keep the aircraft in the air?"}
+{"id": "s0290", "domain": "transport & vehicles", "question": "What is the difference between diesel and petrol engines?"}
+{"id": "s0291", "domain": "transport & vehicles", "question": "How does a turbocharger increase engine power?"}
+{"id": "s0292", "domain": "transport & vehicles", "question": "How do airbags inflate so quickly?"}
+{"id": "s0293", "domain": "transport & vehicles", "question": "How do self-driving cars sense their surroundings?"}
+{"id": "s0294", "domain": "transport & vehicles", "question": "Why do commercial planes fly at around 35,000 feet?"}
+{"id": "s0295", "domain": "transport & vehicles", "question": "How does cruise control work in a car?"}
+{"id": "s0296", "domain": "transport & vehicles", "question": "What is the difference between a catamaran and a monohull?"}
+{"id": "s0297", "domain": "transport & vehicles", "question": "How do traffic lights detect waiting cars?"}
+{"id": "s0298", "domain": "transport & vehicles", "question": "How did the Ford Model T change car manufacturing?"}
+{"id": "s0299", "domain": "transport & vehicles", "question": "How do bicycle gears make pedalling easier?"}
+{"id": "s0300", "domain": "transport & vehicles", "question": "How do catalytic converters reduce emissions?"}
+{"id": "s0301", "domain": "engineering & materials", "question": "How do arch bridges support heavy loads?"}
+{"id": "s0302", "domain": "engineering & materials", "question": "What is reinforced concrete and why is it stronger?"}
+{"id": "s0303", "domain": "engineering & materials", "question": "How are skyscrapers designed to withstand strong winds?"}
+{"id": "s0304", "domain": "engineering & materials", "question": "What is carbon fibre and why is it so strong?"}
+{"id": "s0305", "domain": "engineering & materials", "question": "How is steel made from iron ore?"}
+{"id": "s0306", "domain": "engineering & materials", "question": "What is the difference between stainless steel and carbon steel?"}
+{"id": "s0307", "domain": "engineering & materials", "question": "How does a dam hold back water?"}
+{"id": "s0308", "domain": "engineering & materials", "question": "What is graphene and why is it special?"}
+{"id": "s0309", "domain": "engineering & materials", "question": "How is glass made from sand?"}
+{"id": "s0310", "domain": "engineering & materials", "question": "What are superconductors and how do they work?"}
+{"id": "s0311", "domain": "engineering & materials", "question": "What is metal fatigue and why does it cause failures?"}
+{"id": "s0312", "domain": "engineering & materials", "question": "How are tunnels dug under rivers?"}
+{"id": "s0313", "domain": "engineering & materials", "question": "What is an alloy and why are alloys used?"}
+{"id": "s0314", "domain": "engineering & materials", "question": "How does a hydraulic system multiply force?"}
+{"id": "s0315", "domain": "engineering & materials", "question": "How was the Panama Canal built?"}
+{"id": "s0316", "domain": "engineering & materials", "question": "What is Kevlar and how does it stop bullets?"}
+{"id": "s0317", "domain": "engineering & materials", "question": "How are silicon chips manufactured?"}
+{"id": "s0318", "domain": "engineering & materials", "question": "What is a cantilever in engineering?"}
+{"id": "s0319", "domain": "engineering & materials", "question": "Why can ceramics withstand very high temperatures?"}
+{"id": "s0320", "domain": "engineering & materials", "question": "Why is titanium used in aerospace engineering?"}
+{"id": "s0321", "domain": "economics & personal finance", "question": "How does compound interest work over time?"}
+{"id": "s0322", "domain": "economics & personal finance", "question": "How does the stock market work?"}
+{"id": "s0323", "domain": "economics & personal finance", "question": "What is the difference between a stock and a bond?"}
+{"id": "s0324", "domain": "economics & personal finance", "question": "How do central banks set interest rates?"}
+{"id": "s0325", "domain": "economics & personal finance", "question": "What is GDP and how is it measured?"}
+{"id": "s0326", "domain": "economics & personal finance", "question": "How is a credit score calculated?"}
+{"id": "s0327", "domain": "economics & personal finance", "question": "What is the law of supply and demand?"}
+{"id": "s0328", "domain": "economics & personal finance", "question": "What is a recession and how is it defined?"}
+{"id": "s0329", "domain": "economics & personal finance", "question": "How does a mortgage work?"}
+{"id": "s0330", "domain": "economics & personal finance", "question": "What is diversification in investing?"}
+{"id": "s0331", "domain": "economics & personal finance", "question": "What caused the Great Depression?"}
+{"id": "s0332", "domain": "economics & personal finance", "question": "What is an index fund?"}
+{"id": "s0333", "domain": "economics & personal finance", "question": "How do progressive tax brackets work?"}
+{"id": "s0334", "domain": "economics & personal finance", "question": "What is opportunity cost in economics?"}
+{"id": "s0335", "domain": "economics & personal finance", "question": "What is quantitative easing by a central bank?"}
+{"id": "s0336", "domain": "economics & personal finance", "question": "What is the difference between a debit card and a credit card?"}
+{"id": "s0337", "domain": "economics & personal finance", "question": "How are currency exchange rates determined?"}
+{"id": "s0338", "domain": "economics & personal finance", "question": "What is a budget deficit?"}
+{"id": "s0339", "domain": "economics & personal finance", "question": "Who was Adam Smith and what is the invisible hand?"}
+{"id": "s0340", "domain": "economics & personal finance", "question": "What is the difference between a Roth IRA and a traditional IRA?"}
+{"id": "s0341", "domain": "business & work", "question": "What is the difference between an LLC and a corporation?"}
+{"id": "s0342", "domain": "business & work", "question": "How does a franchise business work?"}
+{"id": "s0343", "domain": "business & work", "question": "What is a SWOT analysis?"}
+{"id": "s0344", "domain": "business & work", "question": "What is the difference between gross profit and net profit?"}
+{"id": "s0345", "domain": "business & work", "question": "How does venture capital funding work?"}
+{"id": "s0346", "domain": "business & work", "question": "What is agile project management?"}
+{"id": "s0347", "domain": "business & work", "question": "What is a balance sheet?"}
+{"id": "s0348", "domain": "business & work", "question": "What is lean manufacturing and where did it originate?"}
+{"id": "s0349", "domain": "business & work", "question": "What is a supply chain?"}
+{"id": "s0350", "domain": "business & work", "question": "What does a non-disclosure agreement do?"}
+{"id": "s0351", "domain": "business & work", "question": "What is the difference between marketing and advertising?"}
+{"id": "s0352", "domain": "business & work", "question": "How does an IPO work?"}
+{"id": "s0353", "domain": "business & work", "question": "What is the Pareto principle?"}
+{"id": "s0354", "domain": "business & work", "question": "What is a key performance indicator?"}
+{"id": "s0355", "domain": "business & work", "question": "How do cooperatives differ from regular businesses?"}
+{"id": "s0356", "domain": "business & work", "question": "What is the difference between B2B and B2C?"}
+{"id": "s0357", "domain": "business & work", "question": "What is a minimum viable product?"}
+{"id": "s0358", "domain": "business & work", "question": "What is the difference between an employee and an independent contractor?"}
+{"id": "s0359", "domain": "business & work", "question": "What is brand equity in marketing?"}
+{"id": "s0360", "domain": "business & work", "question": "What is a Gantt chart used for?"}
+{"id": "s0361", "domain": "history", "question": "Why did the Western Roman Empire fall?"}
+{"id": "s0362", "domain": "history", "question": "When did World War I begin and what triggered it?"}
+{"id": "s0363", "domain": "history", "question": "Who built the pyramids of Giza?"}
+{"id": "s0364", "domain": "history", "question": "What was the Renaissance and where did it begin?"}
+{"id": "s0365", "domain": "history", "question": "How did the Black Death spread across Europe?"}
+{"id": "s0366", "domain": "history", "question": "What was the Industrial Revolution?"}
+{"id": "s0367", "domain": "history", "question": "Why did the Berlin Wall fall in 1989?"}
+{"id": "s0368", "domain": "history", "question": "Who was Genghis Khan and what did he conquer?"}
+{"id": "s0369", "domain": "history", "question": "What was the Magna Carta?"}
+{"id": "s0370", "domain": "history", "question": "How did the printing press change Europe?"}
+{"id": "s0371", "domain": "history", "question": "What was the Cold War?"}
+{"id": "s0372", "domain": "history", "question": "When did the Titanic sink?"}
+{"id": "s0373", "domain": "history", "question": "What caused the French Revolution?"}
+{"id": "s0374", "domain": "history", "question": "Who were the Vikings and where did they travel?"}
+{"id": "s0375", "domain": "history", "question": "What was the Silk Road?"}
+{"id": "s0376", "domain": "history", "question": "How did the American Civil War end?"}
+{"id": "s0377", "domain": "history", "question": "Why is the Rosetta Stone significant?"}
+{"id": "s0378", "domain": "history", "question": "Who was the first emperor of China?"}
+{"id": "s0379", "domain": "history", "question": "What was apartheid in South Africa?"}
+{"id": "s0380", "domain": "history", "question": "How did the Aztec Empire fall?"}
+{"id": "s0381", "domain": "geography & places", "question": "What is the longest river in the world?"}
+{"id": "s0382", "domain": "geography & places", "question": "Where is the Atacama Desert and why is it so dry?"}
+{"id": "s0383", "domain": "geography & places", "question": "What is the highest mountain in Africa?"}
+{"id": "s0384", "domain": "geography & places", "question": "How many countries are in Africa?"}
+{"id": "s0385", "domain": "geography & places", "question": "What is the capital of Australia?"}
+{"id": "s0386", "domain": "geography & places", "question": "Why was Venice built on water?"}
+{"id": "s0387", "domain": "geography & places", "question": "What is the smallest country in the world?"}
+{"id": "s0388", "domain": "geography & places", "question": "What is the largest hot desert in the world?"}
+{"id": "s0389", "domain": "geography & places", "question": "What is the difference between Great Britain and the United Kingdom?"}
+{"id": "s0390", "domain": "geography & places", "question": "How many time zones does Russia have?"}
+{"id": "s0391", "domain": "geography & places", "question": "What is the largest lake in Africa?"}
+{"id": "s0392", "domain": "geography & places", "question": "What are fjords and where are they found?"}
+{"id": "s0393", "domain": "geography & places", "question": "Why is Iceland so volcanically active?"}
+{"id": "s0394", "domain": "geography & places", "question": "What is the deepest lake in the world?"}
+{"id": "s0395", "domain": "geography & places", "question": "Where is Machu Picchu and who built it?"}
+{"id": "s0396", "domain": "geography & places", "question": "What is the Sahel region of Africa?"}
+{"id": "s0397", "domain": "geography & places", "question": "Which countries does the equator pass through?"}
+{"id": "s0398", "domain": "geography & places", "question": "What is the Strait of Gibraltar?"}
+{"id": "s0399", "domain": "geography & places", "question": "What is the Cape of Good Hope known for?"}
+{"id": "s0400", "domain": "geography & places", "question": "How was the height of Mount Everest measured?"}
+{"id": "s0401", "domain": "arts, music & culture", "question": "Who painted the Mona Lisa?"}
+{"id": "s0402", "domain": "arts, music & culture", "question": "What is the difference between baroque and classical music?"}
+{"id": "s0403", "domain": "arts, music & culture", "question": "How does a violin produce sound?"}
+{"id": "s0404", "domain": "arts, music & culture", "question": "What is impressionism in painting?"}
+{"id": "s0405", "domain": "arts, music & culture", "question": "Who wrote Don Quixote and when was it published?"}
+{"id": "s0406", "domain": "arts, music & culture", "question": "What are the origins of jazz?"}
+{"id": "s0407", "domain": "arts, music & culture", "question": "What is a haiku and how is it structured?"}
+{"id": "s0408", "domain": "arts, music & culture", "question": "How does a piano make sound?"}
+{"id": "s0409", "domain": "arts, music & culture", "question": "What is the difference between opera and musical theatre?"}
+{"id": "s0410", "domain": "arts, music & culture", "question": "Why is the Sistine Chapel ceiling famous?"}
+{"id": "s0411", "domain": "arts, music & culture", "question": "Where did hip hop originate?"}
+{"id": "s0412", "domain": "arts, music & culture", "question": "How many plays did Shakespeare write?"}
+{"id": "s0413", "domain": "arts, music & culture", "question": "What is cubism in art?"}
+{"id": "s0414", "domain": "arts, music & culture", "question": "What is the Day of the Dead and how is it celebrated?"}
+{"id": "s0415", "domain": "arts, music & culture", "question": "How did ancient Greek theatre work?"}
+{"id": "s0416", "domain": "arts, music & culture", "question": "What is the twelve-bar blues?"}
+{"id": "s0417", "domain": "arts, music & culture", "question": "What is kabuki theatre in Japan?"}
+{"id": "s0418", "domain": "arts, music & culture", "question": "Who composed The Four Seasons?"}
+{"id": "s0419", "domain": "arts, music & culture", "question": "What is a sonnet and how many lines does it have?"}
+{"id": "s0420", "domain": "arts, music & culture", "question": "What is Diwali and why is it celebrated?"}
+{"id": "s0421", "domain": "sports & fitness", "question": "What is the difference between aerobic and anaerobic exercise?"}
+{"id": "s0422", "domain": "sports & fitness", "question": "Why is a marathon 26.2 miles long?"}
+{"id": "s0423", "domain": "sports & fitness", "question": "What causes delayed onset muscle soreness?"}
+{"id": "s0424", "domain": "sports & fitness", "question": "How does altitude training improve athletic performance?"}
+{"id": "s0425", "domain": "sports & fitness", "question": "When were the first modern Olympic Games held?"}
+{"id": "s0426", "domain": "sports & fitness", "question": "How does scoring work in tennis?"}
+{"id": "s0427", "domain": "sports & fitness", "question": "What is the offside rule in soccer?"}
+{"id": "s0428", "domain": "sports & fitness", "question": "How does stretching improve flexibility?"}
+{"id": "s0429", "domain": "sports & fitness", "question": "What is VO2 max in exercise physiology?"}
+{"id": "s0430", "domain": "sports & fitness", "question": "Why do curveballs curve in baseball?"}
+{"id": "s0431", "domain": "sports & fitness", "question": "What is the difference between Test cricket and T20?"}
+{"id": "s0432", "domain": "sports & fitness", "question": "What is high-intensity interval training?"}
+{"id": "s0433", "domain": "sports & fitness", "question": "How do swimmers reduce drag in the water?"}
+{"id": "s0434", "domain": "sports & fitness", "question": "What causes runner's knee and how is it treated?"}
+{"id": "s0435", "domain": "sports & fitness", "question": "How are points scored in rugby union?"}
+{"id": "s0436", "domain": "sports & fitness", "question": "Who invented basketball and when?"}
+{"id": "s0437", "domain": "sports & fitness", "question": "How does a golf handicap work?"}
+{"id": "s0438", "domain": "sports & fitness", "question": "What is a hat-trick in sports?"}
+{"id": "s0439", "domain": "sports & fitness", "question": "How does strength training build muscle?"}
+{"id": "s0440", "domain": "sports & fitness", "question": "What is Pilates and how did it originate?"}
+{"id": "s0441", "domain": "psychology & behaviour", "question": "What is cognitive dissonance in psychology?"}
+{"id": "s0442", "domain": "psychology & behaviour", "question": "How does classical conditioning work?"}
+{"id": "s0443", "domain": "psychology & behaviour", "question": "What is the bystander effect?"}
+{"id": "s0444", "domain": "psychology & behaviour", "question": "Why do people procrastinate on important tasks?"}
+{"id": "s0445", "domain": "psychology & behaviour", "question": "What is the difference between introverts and extroverts?"}
+{"id": "s0446", "domain": "psychology & behaviour", "question": "What is the Dunning-Kruger effect?"}
+{"id": "s0447", "domain": "psychology & behaviour", "question": "What is confirmation bias and how does it work?"}
+{"id": "s0448", "domain": "psychology & behaviour", "question": "What was the Stanford prison experiment?"}
+{"id": "s0449", "domain": "psychology & behaviour", "question": "What is Maslow's hierarchy of needs?"}
+{"id": "s0450", "domain": "psychology & behaviour", "question": "How does chronic stress affect the body?"}
+{"id": "s0451", "domain": "psychology & behaviour", "question": "What is the placebo effect?"}
+{"id": "s0452", "domain": "psychology & behaviour", "question": "Why is yawning contagious between people?"}
+{"id": "s0453", "domain": "psychology & behaviour", "question": "What is the difference between a psychologist and a psychiatrist?"}
+{"id": "s0454", "domain": "psychology & behaviour", "question": "What is impostor syndrome and who experiences it?"}
+{"id": "s0455", "domain": "psychology & behaviour", "question": "How does peer pressure influence teenagers?"}
+{"id": "s0456", "domain": "psychology & behaviour", "question": "What was the Milgram obedience experiment?"}
+{"id": "s0457", "domain": "psychology & behaviour", "question": "What is the halo effect?"}
+{"id": "s0458", "domain": "psychology & behaviour", "question": "How do habits form in the brain?"}
+{"id": "s0459", "domain": "psychology & behaviour", "question": "What is anchoring bias in decision-making?"}
+{"id": "s0460", "domain": "psychology & behaviour", "question": "What are the components of emotional intelligence?"}
+{"id": "s0461", "domain": "home, DIY & everyday life", "question": "How do you unclog a drain without chemicals?"}
+{"id": "s0462", "domain": "home, DIY & everyday life", "question": "Why do circuit breakers trip?"}
+{"id": "s0463", "domain": "home, DIY & everyday life", "question": "How does a toilet flush work?"}
+{"id": "s0464", "domain": "home, DIY & everyday life", "question": "How do you remove mould from bathroom grout?"}
+{"id": "s0465", "domain": "home, DIY & everyday life", "question": "What is the difference between latex and oil-based paint?"}
+{"id": "s0466", "domain": "home, DIY & everyday life", "question": "Why do pipes freeze in winter and how can it be prevented?"}
+{"id": "s0467", "domain": "home, DIY & everyday life", "question": "How does a tank water heater work?"}
+{"id": "s0468", "domain": "home, DIY & everyday life", "question": "How do you fix a squeaky door hinge?"}
+{"id": "s0469", "domain": "home, DIY & everyday life", "question": "What causes condensation on the inside of windows?"}
+{"id": "s0470", "domain": "home, DIY & everyday life", "question": "How do you sharpen a kitchen knife with a whetstone?"}
+{"id": "s0471", "domain": "home, DIY & everyday life", "question": "How does a stud finder locate studs in a wall?"}
+{"id": "s0472", "domain": "home, DIY & everyday life", "question": "Why does cast iron cookware need seasoning?"}
+{"id": "s0473", "domain": "home, DIY & everyday life", "question": "How do you remove red wine stains from carpet?"}
+{"id": "s0474", "domain": "home, DIY & everyday life", "question": "How does a septic tank work?"}
+{"id": "s0475", "domain": "home, DIY & everyday life", "question": "What is the difference between a screw and a bolt?"}
+{"id": "s0476", "domain": "home, DIY & everyday life", "question": "How do dehumidifiers remove moisture from the air?"}
+{"id": "s0477", "domain": "home, DIY & everyday life", "question": "How do you patch a hole in drywall?"}
+{"id": "s0478", "domain": "home, DIY & everyday life", "question": "How can a ceiling fan help in winter?"}
+{"id": "s0479", "domain": "home, DIY & everyday life", "question": "How do you get rid of fruit flies in the kitchen?"}
+{"id": "s0480", "domain": "home, DIY & everyday life", "question": "Why does vinegar remove limescale?"}

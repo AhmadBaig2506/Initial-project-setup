@@ -1,0 +1,21 @@
+0.00.009.219 I srv  llama_server: initializing ...
+0.01.499.162 I cmn  common_param: common_params_print_info: verbosity = 3 (adjust with the `-lv N` CLI arg)
+0.01.508.404 I srv  init_listene: The UI is disabled
+0.01.508.431 I srv  init_listene: Use --ui/--no-ui (or deprecated --webui/--no-webui) to enable/disable
+0.01.510.301 W srv  server_setup: security: no API key is set and CORS allows all origins (see https://github.com/ggml-org/llama.cpp/pull/25655)
+0.01.522.118 I srv    load_model: loading model '/mnt/c/Users/j15t3/Documents/Programming/Embedded On-Device/Initial-project-setup/models/qwen3.5-0.8b/Qwen3.5-0.8B-Q4_K_M.gguf'
+0.21.702.510 I cmn          init: llama threadpool init, n_threads = 8
+0.21.829.699 I srv    load_model: initializing, n_slots = 1, n_ctx_slot = 4096, kv_unified = 'false'
+0.21.832.102 W srv          init: --cache-idle-slots requires --cache-ram, disabling
+0.21.854.971 I srv  server_run_i: model loaded
+0.21.854.997 I srv  server_on_li: listening on http://127.0.0.1:8090
+0.22.620.309 I slot get_availabl: id  0 | task -1 | selected slot by LRU, n_tokens = 0, t_last = -1
+0.22.620.484 I slot launch_slot_: id  0 | task 0 | processing task, is_child = 0
+0.26.356.895 I slot print_timing: id  0 | task 0 | prompt processing, n_tokens =   1266, progress = 1.00, t =   3.74 s / 338.83 tokens per second
+0.27.246.941 I slot print_timing: id  0 | task 0 | prompt eval time =    3788.36 ms /  1270 tokens (    2.98 ms per token,   335.24 tokens per second)
+0.27.246.993 I slot print_timing: id  0 | task 0 |        eval time =     838.05 ms /    38 tokens (   22.65 ms per token,    44.15 tokens per second)
+0.27.246.994 I slot print_timing: id  0 | task 0 |       total time =    4626.40 ms /  1308 tokens
+0.27.247.002 I slot print_timing: id  0 | task 0 |    graphs reused =         36
+0.27.247.003 I slot print_timing: id  0 | task 0 |   graph reallocs =          0    /     0        (same size) / (changed size)
+0.27.248.594 I slot      release: id  0 | task 0 | stop processing: n_tokens = 1307, truncated = 0
+0.27.252.845 I srv    operator(): operator(): cleaning up before exit...

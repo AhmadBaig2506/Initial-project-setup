@@ -1,0 +1,13 @@
+# Training environment (separate from the app's .venv).
+# Install:  python3 -m venv training/.venv
+#           training/.venv/bin/pip install --index-url https://download.pytorch.org/whl/cu128 torch
+#           training/.venv/bin/pip install -r training/requirements.txt
+transformers
+peft
+trl
+datasets
+accelerate
+bitsandbytes
+sentencepiece
+safetensors
+gguf

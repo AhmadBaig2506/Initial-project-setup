@@ -1,0 +1,134 @@
+[
+  {
+    "model": "qwen3.5-0.8b",
+    "device": "cpu",
+    "variant": "v1",
+    "prompt_tokens": 1328.4,
+    "system_tokens": null,
+    "prefill_ms": 4062.994,
+    "prefill_tok_per_s": 326.9510119877116,
+    "peak_ram_mb": 920.296875,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "qwen3.5-0.8b",
+    "device": "cpu",
+    "variant": "v2-oneshot",
+    "prompt_tokens": 1517.4,
+    "system_tokens": null,
+    "prefill_ms": 4283.4334,
+    "prefill_tok_per_s": 354.248533431149,
+    "peak_ram_mb": 920.296875,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "qwen3.5-0.8b",
+    "device": "cpu",
+    "variant": "v3-3shot",
+    "prompt_tokens": 1806.4,
+    "system_tokens": null,
+    "prefill_ms": 5402.1926,
+    "prefill_tok_per_s": 334.3827467387964,
+    "peak_ram_mb": 920.296875,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "qwen3.5-0.8b",
+    "device": "cpu",
+    "variant": "v5-5shot",
+    "prompt_tokens": 2037.4,
+    "system_tokens": null,
+    "prefill_ms": 6274.8258000000005,
+    "prefill_tok_per_s": 324.69427278762066,
+    "peak_ram_mb": 920.296875,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "granite-4.0-h-1b",
+    "device": "cpu",
+    "variant": "v1",
+    "prompt_tokens": 1305.6,
+    "system_tokens": null,
+    "prefill_ms": 8618.0764,
+    "prefill_tok_per_s": 151.49552398955294,
+    "peak_ram_mb": 1800.89453125,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "granite-4.0-h-1b",
+    "device": "cpu",
+    "variant": "v2-oneshot",
+    "prompt_tokens": 1485.6,
+    "system_tokens": null,
+    "prefill_ms": 9561.956,
+    "prefill_tok_per_s": 155.36570132721798,
+    "peak_ram_mb": 1800.89453125,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "granite-4.0-h-1b",
+    "device": "cpu",
+    "variant": "v3-3shot",
+    "prompt_tokens": 1764.6,
+    "system_tokens": null,
+    "prefill_ms": 11426.0542,
+    "prefill_tok_per_s": 154.436515800879,
+    "peak_ram_mb": 1800.89453125,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "granite-4.0-h-1b",
+    "device": "cpu",
+    "variant": "v5-5shot",
+    "prompt_tokens": 1981.6,
+    "system_tokens": null,
+    "prefill_ms": 13286.094400000002,
+    "prefill_tok_per_s": 149.1484209234581,
+    "peak_ram_mb": 1800.89453125,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "qwen3-4b-instruct-2507",
+    "device": "cpu",
+    "variant": "v1",
+    "prompt_tokens": 1318.6,
+    "system_tokens": null,
+    "prefill_ms": 21886.885000000002,
+    "prefill_tok_per_s": 60.24612456272328,
+    "peak_ram_mb": 4783.05078125,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "qwen3-4b-instruct-2507",
+    "device": "cpu",
+    "variant": "v2-oneshot",
+    "prompt_tokens": 1498.6,
+    "system_tokens": null,
+    "prefill_ms": 25789.6424,
+    "prefill_tok_per_s": 58.10859944300739,
+    "peak_ram_mb": 4783.05078125,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "qwen3-4b-instruct-2507",
+    "device": "cpu",
+    "variant": "v3-3shot",
+    "prompt_tokens": 1779.6,
+    "system_tokens": null,
+    "prefill_ms": 31202.723599999998,
+    "prefill_tok_per_s": 57.03348280789181,
+    "peak_ram_mb": 4783.05078125,
+    "peak_vram_mb": null
+  },
+  {
+    "model": "qwen3-4b-instruct-2507",
+    "device": "cpu",
+    "variant": "v5-5shot",
+    "prompt_tokens": 2000.6,
+    "system_tokens": null,
+    "prefill_ms": 35799.8514,
+    "prefill_tok_per_s": 55.882913525166195,
+    "peak_ram_mb": 4783.05078125,
+    "peak_vram_mb": null
+  }
+]

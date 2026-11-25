@@ -1,0 +1,22 @@
+0.00.033.305 I srv  llama_server: initializing ...
+0.01.107.820 I cmn  common_param: common_params_print_info: verbosity = 3 (adjust with the `-lv N` CLI arg)
+0.01.110.764 I srv  init_listene: The UI is disabled
+0.01.110.785 I srv  init_listene: Use --ui/--no-ui (or deprecated --webui/--no-webui) to enable/disable
+0.01.111.459 W srv  server_setup: security: no API key is set and CORS allows all origins (see https://github.com/ggml-org/llama.cpp/pull/25655)
+0.01.116.046 I srv    load_model: loading model '/mnt/c/Users/j15t3/Documents/Programming/Embedded On-Device/Initial-project-setup/models/granite-4.0-h-1b/granite-4.0-h-1b-Q4_K_M.gguf'
+0.19.457.902 I cmn          init: llama threadpool init, n_threads = 8
+0.19.609.287 I srv    load_model: initializing, n_slots = 1, n_ctx_slot = 4096, kv_unified = 'false'
+0.19.609.889 W srv          init: --cache-idle-slots requires --cache-ram, disabling
+0.19.638.715 I srv  server_run_i: model loaded
+0.19.638.747 I srv  server_on_li: listening on http://127.0.0.1:8090
+0.19.663.646 I slot get_availabl: id  0 | task -1 | selected slot by LRU, n_tokens = 0, t_last = -1
+0.19.663.732 I slot launch_slot_: id  0 | task 0 | processing task, is_child = 0
+0.25.192.267 I slot print_timing: id  0 | task 0 | prompt processing, n_tokens =    733, progress = 0.59, t =   4.79 s / 153.09 tokens per second
+0.28.709.980 I slot print_timing: id  0 | task 0 | prompt processing, n_tokens =   1245, progress = 1.00, t =   8.31 s / 149.90 tokens per second
+0.32.432.782 I slot print_timing: id  0 | task 0 | prompt eval time =    8428.31 ms /  1249 tokens (    6.75 ms per token,   148.19 tokens per second)
+0.32.432.854 I slot print_timing: id  0 | task 0 |        eval time =    3600.12 ms /   100 tokens (   36.36 ms per token,    27.50 tokens per second)
+0.32.432.856 I slot print_timing: id  0 | task 0 |       total time =   12028.43 ms /  1349 tokens
+0.32.432.866 I slot print_timing: id  0 | task 0 |    graphs reused =         98
+0.32.432.866 I slot print_timing: id  0 | task 0 |   graph reallocs =          0    /     0        (same size) / (changed size)
+0.32.433.868 I slot      release: id  0 | task 0 | stop processing: n_tokens = 1348, truncated = 0
+0.32.437.188 I srv    operator(): operator(): cleaning up before exit...

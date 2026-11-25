@@ -1,0 +1,23 @@
+{
+  "model": "qwen3.5-0.8b",
+  "file": "Qwen3.5-0.8B-Q4_K_M.gguf",
+  "params": "0.8B",
+  "file_size_gb": 0.53251712,
+  "peak_ram_mb": 931.0,
+  "threads": 8,
+  "ctx": 4096,
+  "items": 1,
+  "behaviour_accuracy": 1.0,
+  "answer_rate": 1.0,
+  "refusal_rate_unanswerable": null,
+  "citation_validity": 1.0,
+  "answers_with_citations": 0.0,
+  "citation_coverage": 0.0,
+  "groundedness": 0.8333333333333334,
+  "mean_words": 30.0,
+  "thinking_leaks": 0,
+  "mean_latency_s": 4.647504949999984,
+  "prompt_tok_per_s": 335.2377654053632,
+  "gen_tok_per_s": 44.150321104092136,
+  "errors": 0
+}

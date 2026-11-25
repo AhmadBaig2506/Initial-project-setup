@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:tech-insider.org)",
+      "WebFetch(domain:www.bentoml.com)",
+      "WebFetch(domain:tinyweights.dev)",
+      "WebFetch(domain:huggingface.co)",
+      "WebFetch(domain:ai.google.dev)"
+    ]
+  },
+  "outputStyle": "default"
+}
