@@ -19,13 +19,13 @@ Requirements: Python 3.11 or 3.12.
 
 Install dependencies:
 
-`ash
+`
 python -m pip install -r requirements.txt
 `
 
 Verify the environment:
 
-`ash
+`
 python test_setup.py
 `
 
